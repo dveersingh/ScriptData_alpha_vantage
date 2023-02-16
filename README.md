@@ -1,7 +1,7 @@
 
 # ScriptData_alpha_vantage
 
-    pip install -r requirments.txt
+    pip install -r requirements.txt
 
 
 ###### candlestick chart function added
